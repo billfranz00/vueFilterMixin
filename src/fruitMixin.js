@@ -1,4 +1,4 @@
-export const fruitMixin =  {
+export const fruitMixin = {
     data() {
         return {
             fruits: ['Apple', 'Banana', 'Mango', 'Melon'],
